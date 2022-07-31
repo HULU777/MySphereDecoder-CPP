@@ -1,0 +1,6 @@
+make --dry-run --always-make --keep-going --print-directory
+make: Entering directory '/home/hliucp/Desktop/VertexCover/5G-NR-Sphere-Decoding-CPP-main'
+make: Leaving directory '/home/hliucp/Desktop/VertexCover/5G-NR-Sphere-Decoding-CPP-main'
+ 
+make: *** No targets specified and no makefile found.  Stop.
+
