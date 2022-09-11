@@ -8,7 +8,7 @@ make: *** No rule to make target 'all'.  Stop.
 # This is free software: you are free to change and redistribute it.
 # There is NO WARRANTY, to the extent permitted by law.
 
-# Make data base, printed on Sun Jul 31 09:59:38 2022
+# Make data base, printed on Tue Aug  9 17:54:25 2022
 
 # Variables
 
@@ -113,7 +113,6 @@ SSH_AUTH_SOCK = /run/user/1694652160/keyring/ssh
 # environment
 GIO_LAUNCHED_DESKTOP_FILE_PID = 4245
 # automatic
- 
 %F = $(notdir $%)
 # environment
 LM_PROJECT = ECE_DEPT_ALL
@@ -174,7 +173,7 @@ SHLVL = 1
 # environment
 IM_CONFIG_PHASE = 1
 # environment
-VSCODE_IPC_HOOK_EXTHOST = /run/user/1694652160/vscode-ipc-54d546eb-6cde-456c-988f-48843a7543ee.sock
+VSCODE_IPC_HOOK_EXTHOST = /run/user/1694652160/vscode-ipc-53128037-380c-4fd5-90d6-0b24b6351af2.sock
 # environment
 XDG_SESSION_ID = c3
 # environment
@@ -205,7 +204,6 @@ LANGUAGE = en_US:en
 XDG_SEAT_PATH = /org/freedesktop/DisplayManager/Seat1
 # environment
 VSCODE_IPC_HOOK = /run/user/1694652160/vscode-bd5291b4-1.67.2-main.sock
- 
 # environment
 GNOME_KEYRING_CONTROL = 
 # makefile
@@ -226,6 +224,8 @@ GTK2_MODULES = overlay-scrollbar
 QT_ACCESSIBILITY = 1
 # environment
 DEFAULTS_PATH = /usr/share/gconf/gnome-flashback-metacity.default.path
+# environment
+NO_AT_BRIDGE = 1
 # default
 MAKEFILES := 
 # environment
@@ -267,7 +267,7 @@ VSCODE_PID = 4245
 # environment
 _CE_CONDA = 
 # variable set hash-table stats:
-# Load=126/1024=12%, Rehash=0, Collisions=14/148=9%
+# Load=127/1024=12%, Rehash=0, Collisions=15/149=10%
 
 # Pattern-specific Variable Values
 
@@ -275,16 +275,16 @@ _CE_CONDA =
 
 # Directories
 
-# . (device 64768, inode 7617522): 6 files, no impossibilities.
+# . (device 64768, inode 7617522): 10 files, no impossibilities.
 
-# 6 files, no impossibilities in 1 directories.
+# 10 files, no impossibilities in 1 directories.
 
 # Implicit Rules
 
+ 
 # No implicit rules.
 
 # Files
- 
 
 # Not a target:
 all:
@@ -328,12 +328,12 @@ GNUmakefile:
 
 # No general ('VPATH' variable) search path.
 
-# strcache buffers: 1 (0) / strings = 14 / storage = 136 B / avg = 9 B
-# current buf: size = 8162 B / used = 136 B / count = 14 / avg = 9 B
+# strcache buffers: 1 (0) / strings = 18 / storage = 186 B / avg = 10 B
+# current buf: size = 8162 B / used = 186 B / count = 18 / avg = 10 B
 
-# strcache performance: lookups = 17 / hit rate = 17%
+# strcache performance: lookups = 21 / hit rate = 14%
 # hash-table stats:
-# Load=14/8192=0%, Rehash=0, Collisions=1/17=6%
-# Finished Make data base on Sun Jul 31 09:59:38 2022
+# Load=18/8192=0%, Rehash=0, Collisions=1/21=5%
+# Finished Make data base on Tue Aug  9 17:54:25 2022
 
  

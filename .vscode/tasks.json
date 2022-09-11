@@ -6,10 +6,18 @@
             "command": "/usr/bin/g++",
             "args": [
                 "-fdiagnostics-color=always",
+                //"-I",
+                // "-O3",
                 "-g",
-                "${file}",
+                "/home/hliucp/Desktop/VertexCover/MySphereDecoder-CPP/SourceFiles/nrModulation.cpp",
+                "/home/hliucp/Desktop/VertexCover/MySphereDecoder-CPP/SourceFiles/nrSphereDecoder.cpp",
+                "/home/hliucp/Desktop/VertexCover/MySphereDecoder-CPP/SourceFiles/Example_run.cpp",
+                // "/home/hliucp/Desktop/VertexCover/MySphereDecoder-CPP/SourceFiles/mwvc.cpp",
+                //"${file}",
                 "-o",
-                "${fileDirname}/${fileBasenameNoExtension}"
+                "/home/hliucp/Desktop/VertexCover/MySphereDecoder-CPP/SourceFiles/Example_run",
+                //"${fileDirname}/${fileBasenameNoExtension}",
+                "-std=c++11",
             ],
             "options": {
                 "cwd": "${fileDirname}"

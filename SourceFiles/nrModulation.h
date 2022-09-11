@@ -25,6 +25,8 @@ typedef std::vector<Vecd>  Matrix2Dd;
 typedef std::vector<Matrix2Dd>  Matrix3Dd;
 typedef std::vector<Matrix3Dd>  Matrix4Dd;
 
+typedef std::vector<std::string> Vecs;
+typedef std::vector<Vecs>  Matrix2Ds;
 //===================================== Modulation Information ===================================
 struct ModuInfo {
 	std::string modulation;
@@ -66,7 +68,7 @@ struct ModuInfo {
 // The modulation scheme, 'moduType' must be one of  'BPSK', 'QPSK', '16QAM', '64QAM', '256QAM'.
 // Author Dr. J Mao 2021 Nov
 //----------------------------------------------------------------------------------------------
-ComplexVec nrModuMapper(Veci& bitsIn, std::string moduType);
+ComplexVec nrModuMapper(Veci& bitsIn, std::string moduType, int M);
 
 //===================================== NR soft Modulation DeMapper ===================================
 //  nrSoftModuDemapper demodulates symbols to soft bits

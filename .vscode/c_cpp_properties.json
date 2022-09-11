@@ -3,7 +3,8 @@
         {
             "name": "Linux",
             "includePath": [
-                "${workspaceFolder}/**"
+                "${workspaceFolder}/**",
+                "/home/hliucp/Desktop/VertexCover/5G-NR-Sphere-Decoding-CPP-main/eigen-3.4.0/Eigen/**"
             ],
             "defines": [],
             "compilerPath": "/usr/bin/gcc",

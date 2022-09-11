@@ -1,7 +1,7 @@
 #include "nrModulation.h"
 using namespace std;
 //===================================== NR Modulation Mapper ===================================
-ComplexVec nrModuMapper(Veci& bitsIn, string moduType)
+ComplexVec nrModuMapper(Veci& bitsIn, string moduType, int M)
 {
 	//----------------------------------------------------------------------------------------
 	// This function maps the bit sequence into 
@@ -19,6 +19,12 @@ ComplexVec nrModuMapper(Veci& bitsIn, string moduType)
 			symbOut[i] = 1.0 / sqrt(2) * complex<double>(1.0 - 2.0 * b[i], 1.0 - 2.0 * b[i]);
 		}
 		return symbOut;
+	}
+	else if (moduType == "3psk") {
+		ComplexVec symbOut(3);
+		symbOut = {sqrt(1.0/M),0,-sqrt(1.0/M)};
+		return symbOut;
+
 	}
 	else if (moduType == "qpsk") {
 		assert(b.size() % 2 == 0);

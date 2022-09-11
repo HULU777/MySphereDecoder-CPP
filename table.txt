@@ -1,0 +1,496 @@
+n=6B=6M=3D=4
+total nodes: 20
+remained nodes: 4
+
+n=7B=7M=3D=4
+total nodes: 35
+remained nodes: 7
+
+n=6B=6M=3D=4
+total nodes: 20
+remained nodes: 4
+
+n=7B=7M=3D=4
+total nodes: 35
+remained nodes: 7
+
+n=8B=8M=3D=4
+total nodes: 56
+remained nodes: 8
+
+n=9B=9M=3D=4
+total nodes: 84
+remained nodes: 12
+
+n=10B=10M=3D=4
+total nodes: 120
+remained nodes: 13
+
+n=11B=11M=3D=4
+total nodes: 165
+remained nodes: 17
+
+n=12B=12M=3D=4
+total nodes: 220
+remained nodes: 20
+
+n=13B=13M=3D=4
+total nodes: 286
+remained nodes: 26
+
+n=14B=14M=3D=4
+total nodes: 364
+remained nodes: 28
+
+n=15B=15M=3D=4
+total nodes: 455
+remained nodes: 35
+
+n=17, B=17, M=3, D=4
+total nodes: 680
+remained nodes: 44
+
+n=18, B=18, M=3, D=4
+total nodes: 816
+remained nodes: 48
+
+n=19, B=19, M=3, D=4
+total nodes: 969
+remained nodes: 57
+
+n=20, B=20, M=3, D=4
+total nodes: 1140
+remained nodes: 60
+
+n=21, B=21, M=3, D=4
+total nodes: 1330
+remained nodes: 70
+
+n=22, B=22, M=3, D=4
+total nodes: 1540
+remained nodes: 73
+
+n=23, B=23, M=3, D=4
+total nodes: 1771
+remained nodes: 83
+
+n=24, B=24, M=3, D=4
+total nodes: 2024
+remained nodes: 88
+
+n=25, B=25, M=3, D=4
+total nodes: 2300
+remained nodes: 100
+
+n=26, B=26, M=3, D=4
+total nodes: 2600
+remained nodes: 104
+
+n=27, B=27, M=3, D=4
+total nodes: 2925
+remained nodes: 115
+
+n=28, B=28, M=3, D=4
+total nodes: 3276
+remained nodes: 121
+
+n=29, B=29, M=3, D=4
+total nodes: 3654
+remained nodes: 133
+
+n=30, B=30, M=3, D=4
+total nodes: 4060
+remained nodes: 140
+
+n=29, B=29, M=3, D=4
+total nodes: 3654
+remained nodes: 133
+
+n=13, B=13, M=4, D=4
+total nodes: 715
+remained nodes: 65
+
+n=14, B=14, M=4, D=4
+total nodes: 1001
+remained nodes: 91
+
+n=15, B=15, M=4, D=4
+total nodes: 1365
+remained nodes: 105
+
+
+
+n=16, B=16, M=4, D=4
+total nodes: 1820
+remained nodes: 140
+ time: SD: 3.57307, VC:0.18686
+
+n=16, B=16, M=4, D=4
+total nodes: 1820
+remained nodes: 140
+ time: SD: 3.55585, VC:0.18545
+
+n=10, B=10, M=4, D=4
+total nodes: 210
+remained nodes: 30
+ time: SD: 0.0872055, VC:0.0111885
+
+n=11, B=11, M=4, D=4
+total nodes: 330
+remained nodes: 35
+ time: SD: 0.166852, VC:0.0370874
+
+n=12, B=12, M=4, D=4
+total nodes: 495
+remained nodes: 51
+ time: SD: 0.326691, VC:0.0675852
+
+n=13, B=13, M=4, D=4
+total nodes: 715
+remained nodes: 63
+ time: SD: 0.619693, VC:38.2119
+
+n=14, B=14, M=4, D=4
+total nodes: 1001
+remained nodes: 91
+ time: SD: 1.14167, VC:113.778
+
+n=15, B=15, M=4, D=4
+total nodes: 1365
+remained nodes: 105
+ time: SD: 2.0299, VC:0.126414
+
+n=13, B=13, M=5, D=4
+total nodes: 1287
+remained nodes: 122
+ time: SD: 1.85764, VC:16.6646
+
+n=14, B=14, M=5, D=4
+total nodes: 2002
+remained nodes: 157
+ time: SD: 4.08639, VC:72.1891
+
+n=10, B=10, M=5, D=4
+total nodes: 252
+remained nodes: 36
+ time: SD: 0.119831, VC:0.0135225
+
+n=11, B=11, M=5, D=4
+total nodes: 462
+remained nodes: 66
+ time: SD: 0.296085, VC:0.029474
+
+n=12, B=12, M=5, D=4
+total nodes: 792
+remained nodes: 79
+ time: SD: 0.755749, VC:57.807
+
+n=12, B=12, M=5, D=4
+total nodes: 792
+remained nodes: 80
+ time: SD: 0.755749, VC:94.2809
+
+n=13, B=13, M=5, D=4
+total nodes: 1287
+remained nodes: 122
+ time: SD: 1.80678, VC:16.6562
+
+n=14, B=14, M=5, D=4
+total nodes: 2002
+remained nodes: 157
+ time: SD: 4.14148, VC:72.4989
+
+n=15, B=15, M=5, D=4
+total nodes: 3003
+remained nodes: 214
+ time: SD: 9.02596, VC:429.292
+
+n=15, B=15, M=5, D=4
+total nodes: 3003
+remained nodes: 215
+ time: SD: 9.02596, VC:457.8
+
+n=16, B=16, M=5, D=4
+total nodes: 4368
+remained nodes: 284
+ time: SD: 19.2487, VC:120.116
+
+n=16, B=16, M=5, D=4
+total nodes: 4368
+remained nodes: 285
+ time: SD: 19.2487, VC:285.291
+
+n=17, B=17, M=5, D=4
+total nodes: 6188
+remained nodes: 371
+ time: SD: 39.9566, VC:26.6878
+
+n=17, B=17, M=5, D=4
+total nodes: 6188
+remained nodes: 372
+ time: SD: 39.9566, VC:289.901
+
+n=18, B=18, M=5, D=4
+total nodes: 8568
+remained nodes: 479
+ time: SD: 80.2896, VC:217.603
+
+n=19, B=19, M=5, D=4
+total nodes: 11628
+remained nodes: 602
+ time: SD: 154.226, VC:415.29
+
+n=19, B=19, M=5, D=4
+total nodes: 11628
+remained nodes: 604
+ time: SD: 154.226, VC:290.227
+
+n=20, B=20, M=5, D=4
+total nodes: 15504
+remained nodes: 751
+ time: SD: 284.719, VC:310.871
+
+n=20, B=20, M=5, D=4
+total nodes: 15504
+remained nodes: 754
+ time: SD: 284.719, VC:204.843
+
+n=21, B=21, M=5, D=4
+total nodes: 20349
+remained nodes: 928
+ time: SD: 522.539, VC:405.999
+
+n=21, B=21, M=5, D=4
+total nodes: 20349
+remained nodes: 929
+ time: SD: 522.539, VC:265.441
+
+n=22, B=22, M=5, D=4
+total nodes: 26334
+remained nodes: 1135
+ time: SD: 921.387, VC:229.555
+
+n=22, B=22, M=5, D=4
+total nodes: 26334
+remained nodes: 1136
+ time: SD: 921.387, VC:244.912
+
+n=22, B=22, M=5, D=4
+total nodes: 26334
+remained nodes: 1137
+ time: SD: 921.387, VC:327.397
+
+n=12, B=12, M=6, D=4
+total nodes: 924
+remained nodes: 132
+ time: SD: 1.07576, VC:0.0697447
+
+n=13, B=13, M=6, D=4
+total nodes: 1716
+remained nodes: 152
+ time: SD: 3.2089, VC:110.398
+
+n=14, B=14, M=6, D=4
+total nodes: 3003
+remained nodes: 235
+ time: SD: 9.27496, VC:85.3942
+
+n=14, B=14, M=6, D=4
+total nodes: 3003
+remained nodes: 236
+ time: SD: 9.27496, VC:59.006
+
+n=15, B=15, M=6, D=4
+total nodes: 5005
+remained nodes: 350
+ time: SD: 25.1501, VC:398.532
+
+n=16, B=16, M=6, D=4
+total nodes: 8008
+remained nodes: 508
+ time: SD: 65.4932, VC:471.271
+
+n=16, B=16, M=6, D=4
+total nodes: 8008
+remained nodes: 512
+ time: SD: 65.4932, VC:1.10576
+
+n=17, B=17, M=6, D=4
+total nodes: 12376
+remained nodes: 715
+ time: SD: 163.472, VC:190.428
+
+n=17, B=17, M=6, D=4
+total nodes: 12376
+remained nodes: 716
+ time: SD: 163.472, VC:96.825
+
+n=18, B=18, M=6, D=4
+total nodes: 18564
+remained nodes: 995
+ time: SD: 394.75, VC:374.197
+
+n=17, B=17, M=4, D=4
+total nodes: 2380
+remained nodes: 150
+ time: SD: 6.11897, VC:228.996
+
+n=18, B=18, M=4, D=4
+total nodes: 3060
+remained nodes: 182
+ time: SD: 10.5446, VC:155.533
+
+n=19, B=19, M=4, D=4
+total nodes: 3876
+remained nodes: 212
+ time: SD: 16.5521, VC:69.683
+
+n=19, B=19, M=4, D=4
+total nodes: 3876
+remained nodes: 213
+ time: SD: 16.5521, VC:202.039
+
+n=20, B=20, M=4, D=4
+total nodes: 4845
+remained nodes: 250
+ time: SD: 26.7439, VC:10.5163
+
+n=21, B=21, M=4, D=4
+total nodes: 5985
+remained nodes: 291
+ time: SD: 42.2267, VC:35.1177
+
+n=22, B=22, M=4, D=4
+total nodes: 7315
+remained nodes: 337
+ time: SD: 65.4218, VC:71.2531
+
+n=22, B=22, M=4, D=4
+total nodes: 7315
+remained nodes: 338
+ time: SD: 65.4218, VC:56.117
+
+n=23, B=23, M=4, D=4
+total nodes: 8855
+remained nodes: 387
+ time: SD: 99.8234, VC:446.089
+
+n=24, B=24, M=4, D=4
+total nodes: 10626
+remained nodes: 442
+ time: SD: 149.784, VC:233.899
+
+n=24, B=24, M=4, D=4
+total nodes: 10626
+remained nodes: 444
+ time: SD: 149.784, VC:499.82
+
+n=25, B=25, M=4, D=4
+total nodes: 12650
+remained nodes: 503
+ time: SD: 221.791, VC:60.3945
+
+n=26, B=26, M=4, D=4
+total nodes: 14950
+remained nodes: 568
+ time: SD: 321.628, VC:272.648
+
+n=26, B=26, M=4, D=4
+total nodes: 14950
+remained nodes: 569
+ time: SD: 321.628, VC:302.012
+
+n=27, B=27, M=4, D=4
+total nodes: 17550
+remained nodes: 638
+ time: SD: 460.589, VC:119.438
+
+n=28, B=28, M=4, D=4
+total nodes: 20475
+remained nodes: 736
+ time: SD: 651.819, VC:4.63392
+
+n=28, B=28, M=4, D=4
+total nodes: 20475
+remained nodes: 742
+ time: SD: 651.819, VC:4.60108
+
+n=28, B=28, M=4, D=4
+total nodes: 20475
+remained nodes: 747
+ time: SD: 651.819, VC:4.56878
+
+n=29, B=29, M=4, D=4
+total nodes: 23751
+remained nodes: 820
+ time: SD: 908.212, VC:5.5807
+
+n=29, B=29, M=4, D=4
+total nodes: 23751
+remained nodes: 821
+ time: SD: 908.212, VC:5.54191
+
+n=30, B=30, M=4, D=4
+total nodes: 27405
+remained nodes: 946
+ time: SD: 1249.49, VC:6.56885
+
+n=17, B=17, M=5, D=4
+total nodes: 6188
+remained nodes: 371
+ time: SD: 40.2386, VC:26.9541
+
+n=17, B=17, M=5, D=4
+total nodes: 6188
+remained nodes: 372
+ time: SD: 40.2386, VC:293.589
+
+n=18, B=18, M=5, D=4
+total nodes: 8568
+remained nodes: 479
+ time: SD: 80.1635, VC:219.737
+
+n=19, B=19, M=5, D=4
+total nodes: 11628
+remained nodes: 602
+ time: SD: 155.166, VC:420.22
+
+n=19, B=19, M=5, D=4
+total nodes: 11628
+remained nodes: 604
+ time: SD: 155.166, VC:290.965
+
+n=20, B=20, M=5, D=4
+total nodes: 15504
+remained nodes: 751
+ time: SD: 291.04, VC:308.874
+
+n=20, B=20, M=5, D=4
+total nodes: 15504
+remained nodes: 754
+ time: SD: 291.04, VC:216.205
+
+n=21, B=21, M=5, D=4
+total nodes: 20349
+remained nodes: 928
+ time: SD: 526.388, VC:421.751
+
+n=21, B=21, M=5, D=4
+total nodes: 20349
+remained nodes: 929
+ time: SD: 526.388, VC:269.212
+
+n=22, B=22, M=5, D=4
+total nodes: 26334
+remained nodes: 1135
+ time: SD: 926.911, VC:232.118
+
+n=22, B=22, M=5, D=4
+total nodes: 26334
+remained nodes: 1136
+ time: SD: 926.911, VC:238.896
+
+n=22, B=22, M=5, D=4
+total nodes: 26334
+remained nodes: 1137
+ time: SD: 926.911, VC:345.393
